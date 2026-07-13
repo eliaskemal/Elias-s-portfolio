@@ -44,7 +44,7 @@ const Projects = () => {
       title: 'E-Commerce Platform',
       description: 'Full-stack e-commerce solution with React, Node.js, and MongoDB.',
       tags: ['TypeScript', 'React', 'Node.js', 'MongoDB'],
-      image: 'https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?w=800&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=600&fit=crop',
       color: 'from-green-500 to-emerald-500',
       url: 'https://github.com/eliaskemal/ecommerce-platform',
     },
